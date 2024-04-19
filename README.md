@@ -1,10 +1,10 @@
 # Game of Thrones Character Analysis: Appearances and Survival
 
-<img align="center" src="assests/banner.gif" alt="banner">
+<gif align="center" src="assests/banner.gif" alt="banner">
 
 <div style="text-align: center;"> 
 
-[![GitHub WidgetBox](https://tenor.com/view/got-gif-24777744) 
+![Game of Thrones GIF](https://c.tenor.com/I6kN-6X7nhAAAAAj/cyanide-happiness-dancing.gif)
 </div>
 
 ## Project Overview
