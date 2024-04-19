@@ -1,8 +1,11 @@
 # Game of Thrones Character Analysis: Appearances and Survival
 
-<p align="center">
-  <img src="https://media.tenor.com/8U68m7f6lj4AAAPo/got.mp4" alt="Game of Thrones GIF"/>
-</p>
+<img align="center" src="assests/got.mp4" alt="banner">
+
+<div style="text-align: center;"> 
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=1AyaNabil1&data=followers,repositories,stars,commits&theme=dark)](https://github.com/1AyaNabil1/Game_of_Thrones_Character_Analysis) 
+</div>
 
 ## Project Overview
 
