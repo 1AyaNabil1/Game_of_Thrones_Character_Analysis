@@ -1,9 +1,10 @@
 # Game of Thrones Character Analysis: Appearances and Survival
 
 <img align="center" src="assests/banner.gif" alt="banner">
+
 <div style="text-align: center;"> 
-  
-[![GitHub WidgetBox](<iframe src="https://giphy.com/embed/l41JKF163Hnzm2udO" width="480" height="270" frameBorder="0") 
+
+[![GitHub WidgetBox](https://tenor.com/view/got-gif-24777744) 
 </div>
 
 ## Project Overview
