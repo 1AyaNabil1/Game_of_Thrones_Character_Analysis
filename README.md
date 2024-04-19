@@ -1,10 +1,9 @@
 # Game of Thrones Character Analysis: Appearances and Survival
 
 <img align="center" src="assests/banner.gif" alt="banner">
-
 <div style="text-align: center;"> 
-
-[![via GIPHY](<iframe src="https://giphy.com/embed/l41JKF163Hnzm2udO" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gameofthrones-game-of-thrones-hbo-l41JKF163Hnzm2udO">via GIPHY</a></p>) 
+  
+[![GitHub WidgetBox](<iframe src="https://giphy.com/embed/l41JKF163Hnzm2udO" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gameofthrones-game-of-thrones-hbo-l41JKF163Hnzm2udO">via GIPHY</a></p>) 
 </div>
 
 ## Project Overview
