@@ -2,11 +2,6 @@
 
 <img align="center" src="assests/got.mp4" alt="banner">
 
-<div style="text-align: center;"> 
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=1AyaNabil1&data=followers,repositories,stars,commits&theme=dark)](https://github.com/1AyaNabil1/Game_of_Thrones_Character_Analysis) 
-</div>
-
 ## Project Overview
 
 This project provides an in-depth analysis of characters from the "Game of Thrones" series, focusing on the factors that influence their appearances throughout the books and their likelihood of survival. Using a dataset that encapsulates various character attributes, the analysis explores the statistical relationships between these attributes and character outcomes, including the use of logistic regression and Random Forest to predict survival.
