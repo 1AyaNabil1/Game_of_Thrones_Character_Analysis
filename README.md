@@ -1,9 +1,6 @@
 # Game of Thrones Character Analysis: Appearances and Survival
 
-<div style="text-align: center;"> 
-  
-![Game of Thrones GIF](https://tenor.com/view/got-gif-24777744)
-</div>
+![Game of Thrones GIF](https://c.tenor.com/I6kN-6X7nhAAAAAj/cyanide-happiness-dancing.gif)
 
 ## Project Overview
 
