@@ -1,5 +1,12 @@
 # Game of Thrones Character Analysis: Appearances and Survival
 
+<img align="center" src="assests/banner.gif" alt="banner">
+
+<div style="text-align: center;"> 
+
+[![via GIPHY](<iframe src="https://giphy.com/embed/l41JKF163Hnzm2udO" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gameofthrones-game-of-thrones-hbo-l41JKF163Hnzm2udO">via GIPHY</a></p>) 
+</div>
+
 ## Project Overview
 
 This project provides an in-depth analysis of characters from the "Game of Thrones" series, focusing on the factors that influence their appearances throughout the books and their likelihood of survival. Using a dataset that encapsulates various character attributes, the analysis explores the statistical relationships between these attributes and character outcomes, including the use of logistic regression and Random Forest to predict survival.
