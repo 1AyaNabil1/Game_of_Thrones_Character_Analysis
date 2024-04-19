@@ -33,7 +33,7 @@ The project concludes that nobility status, gender, and appearances in specific 
 
 ## How to Use This Repository
 
-- `analysis_notebook.ipynb`: The Jupyter notebook containing all the analysis code, visualizations, and comments.
+- `Game_of_Thrones(Character Deaths).ipynb`: The Jupyter notebook containing all the analysis code, visualizations, and comments.
 - `data/`: The directory containing the dataset used for the analysis.
 - `requirements.txt`: A list of Python packages required to run the notebook. The contents of the file are as follows:
 To replicate the analysis, clone the repository, install the required packages using `pip install -r requirements.txt`, and run the Jupyter notebook.
